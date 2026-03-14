@@ -1,8 +1,8 @@
 import numpy as np
 
 #addition
-a = np.array([7,9,8,10])
-b = np.array([1,2,3,4])
+a = np.array([17,9,8,11])
+b = np.array([6,2,3,4])
 res1 = np.add(a,b)
 print(res1)
 
