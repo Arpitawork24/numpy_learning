@@ -23,3 +23,7 @@ print(res4)
 #exponent
 res5= np.power(a,b) #its a raise to b
 print(res5)
+
+#modulus
+res6 = np.mod(a,b)
+print(res6)
